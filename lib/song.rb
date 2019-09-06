@@ -8,7 +8,6 @@ class Song
     @name = name
     @artist = artist
     @genre = genre
-    Genre.new(genre)
     @@all << self
   end
   
