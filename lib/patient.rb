@@ -25,4 +25,6 @@ class Patient
     end
   end
   
+  def new_appointment()
+  
 end
