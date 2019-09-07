@@ -23,4 +23,5 @@ class Doctor
     self.appointments.map do |ap|
       ap.patient
     end
+  end
 end
