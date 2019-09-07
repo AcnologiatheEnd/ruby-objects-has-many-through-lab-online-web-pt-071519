@@ -24,4 +24,8 @@ class Doctor
       ap.patient
     end
   end
+  
+  def self.all
+    @@all
+  end
 end
